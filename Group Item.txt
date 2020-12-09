@@ -1,0 +1,3 @@
+1.) Our personas or imagined users for the Covid-19 hotspot detector product would be for that average citizen of any country. Our biggest issues today are that people do not have enough information for infected areas before traveling
+    and with our proposed idea, it would help solve this issue.
+2.) Other stakeholders of the project could include restaurants, schools, and other essential businesses since their main profits and ability to stay in business is dependent on how critical the outbreak in their area is. 
